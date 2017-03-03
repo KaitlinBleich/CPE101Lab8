@@ -1,8 +1,8 @@
-mport lab8helper
+import lab8helper
 
 def main():
-      print("Just a simple file.")
-         print(lab8helper.name())
+   print("Just a simple file.")
+   print(lab8helper.name())
 
-         if __name__ == '__main__':
-               main()
+if __name__ == '__main__':
+   main()
